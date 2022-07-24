@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [Vegetables Auth](https://auth.vegetables.inc) and [Mimic Proxy](https://mimicproxy.io)
 
-- 🌱 I’m currently getting better at **Rust** and learning **Golang**
+- 🌱 I’m currently getting better at **Rust** and learning **Golang**, **Tauri**, and **Tailwind**
 
 - 👨‍💻 Check out my website [https://chanchan.dev](https://chanchan.dev)
 
