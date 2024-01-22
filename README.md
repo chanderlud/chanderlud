@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on my [custom P2P chat app](https://chanchan.dev/audio-chat)
+- 🔭 I’m currently working on my [file transfer app](https://github.com/chanderlud/cccp)
 
-- 🌱 I’m currently getting better at **Rust** and learning **Golang**, **Tauri**, and **Tailwind**
+- 🌱 I’m currently getting better at **Rust** and learning **Flutter**, **Java**, and **Firebase**
 
 - 👨‍💻 Check out my website [https://chanchan.dev](https://chanchan.dev)
 
