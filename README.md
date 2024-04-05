@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on an updated version of my [audio chat app](https://github.com/chanderlud/audio-chat)
+- 🔭 I’m currently working on an updated version of my [audio chat app](https://github.com/chanderlud/audio-chat/tree/rust)
 
 - 🌱 I’m currently getting better at **Rust** and learning **Flutter**, **Java**, and **Firebase**
 
