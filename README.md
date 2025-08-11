@@ -5,9 +5,3 @@
 - 👨‍💻 Check out my website [https://chanchan.dev](https://chanchan.dev)
 
 - 📫 How to reach me **me@chanchan. dev**
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chanderlud&show_icons=true&theme=synthwave&locale=en" alt="github stats" />
-</p>
