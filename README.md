@@ -1,4 +1,4 @@
-- 🚀 I'm working on the [IQON App](https://iqondigital.com/pages/iqon-app) at IQON Digital
+- 🚀 I'm working on desktop software & infrastructure at [IQON Digital](https://iqondigital.com/)
 
 - 🔭 Take a look at the latest version of my open source project named [telepathy](https://github.com/chanderlud/telepathy)
 
