@@ -4,4 +4,4 @@
 
 - 👨‍💻 Check out my website [https://chanchan.dev](https://chanchan.dev)
 
-- 📫 How to reach me **me@chanchan. dev**
+- 📫 How to reach me **me@chanchan.dev** or **chanchan2590** on Discord
