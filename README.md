@@ -5,3 +5,5 @@
 - 👨‍💻 Check out my [new website](https://chanchan.dev) built with [Once UI](https://once-ui.com/) and [Cloudflare Workers](https://workers.cloudflare.com/)
 
 - 📫 How to reach me **me@chanchan.dev** or **chanchan2590** on Discord
+
+[![My Skills](https://skillicons.dev/icons?i=rust,tauri,ts,nextjs,python,flutter,docker,postgres,cloudflare,github,linux,rocket)](https://skillicons.dev)
