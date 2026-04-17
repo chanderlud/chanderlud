@@ -6,4 +6,4 @@
 
 - 📫 How to reach me **me@chanchan.dev** or **chanchan2590** on Discord
 
-[![My Skills](https://skillicons.dev/icons?i=rust,tauri,ts,nextjs,python,flutter,docker,postgres,cloudflare,github,linux,rocket)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanderlud&layout=compact&hide=Jupyter%20Notebook&theme=dark)
