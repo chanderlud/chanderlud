@@ -8,4 +8,5 @@
 
   ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanderlud&layout=compact&hide=Jupyter%20Notebook&theme=dark)
+![Stats](/profile/stats.svg)
+![Top Langs](/profile/top-langs.svg)
